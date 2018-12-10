@@ -137,6 +137,15 @@ Item #9 - Comparison of increase in spending % of OASDI and SSI (for largest cat
 - Though the percentage of population increase for US is trending downwards only slightly, the percentage of spending increase for SSI is trending downwards much more significantly.
 - Could the trend in SSI mean there are fewer disabled people in US? Or have many disabled people been left out of the payments? The trend for SSI needs to be analyzed further with additional data to understand the reason for it.  
   
+# Repository  
+  
+- The repository consists of a python jupyter notebook (analysis.ipynb) which contains all the entire analysis and supporting code to reproduce the results.
+- The raw data is placed in the folder "Data".
+- The geopgraphic shape file of US Map (us-states.json) is placed in the folder "Data".
+- Images used in the project report have been placed in the foler "Images".
+- Readme file with summarized information of the project, including details of the data used.
+- License information for this project
+  
 # Course Wiki  
   
 Link to DATA 512 Course Wiki - https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)
