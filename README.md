@@ -140,10 +140,11 @@ Item #9 - Comparison of increase in spending % of OASDI and SSI (for largest cat
 # Repository  
   
 - The repository consists of a python jupyter notebook (analysis.ipynb) which contains all the entire analysis and supporting code to reproduce the results.
-- The raw data is placed in the folder "Data".
+- The raw data is placed in the folder "Data". There is one excel sheet for each of the years 2013, 2014, 2015, 2016 and 2017.
 - The geopgraphic shape file of US Map (us-states.json) is placed in the folder "Data".
 - Images used in the project report have been placed in the foler "Images".
 - Readme file with summarized information of the project, including details of the data used.
+- Powepoint Presentation (Data512 - Final Project Presentation_TJ.pptx) which is a presentation of the findings without the code.
 - License information for this project
   
 # Course Wiki  
